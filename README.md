@@ -21,4 +21,4 @@ High level flow:
 - 02b If avaerge is below threshold value, low counter is incremented
 - 03 Based on counter reading, a decision is made whether to increase or decrease the volume
 
-- Output: IR Transmitter sends out IR signal to the TV
+- Output: IR Transmitter sends out IR signal to the TV that increases or decreases the volume
