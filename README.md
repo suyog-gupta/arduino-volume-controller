@@ -14,8 +14,8 @@ What do sensors do:
 High level flow:
 - Input: Volume reading is reported by audio sensor
 
-- Processing:
-- 01 Average of five volume readings is calculated
+**Processing:
+**- 01 Average of five volume readings is calculated
 - 02 Average is then compared to a preset threshold value
 - 02a If average is above threshold value, spike counter is incremented
 - 02b If avaerge is below threshold value, low counter is incremented
